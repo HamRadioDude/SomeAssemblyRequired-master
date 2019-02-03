@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Some Assembly Required</string>
+    <string name="txtAppName">Some Assembly Required</string>
+    <string name="txtClick">Determine tools needed to install one of the following:</string>
+    <string name="btnBike">Bicycle</string>
+    <string name="btnDresser">Dresser</string>
+    <string name="btnPatio">Patio</string>
+    <string name="title_activity_dresser">dresser</string>
+    <string name="txtBicycle">Bicycle Assembly</string>
+    <string name="txtToolsNeeded">Tools Needed: </string>
+    <string name="imgBicycle">Image of a Bicycle</string>
+    <string name="txtPatio">Patio Assembly</string>
+    <string name="imgPatio">Patio Image</string>
+    <string name="txtDresser">Dresser Assembly</string>
+    <string name="imgDresser">Image of a Dresser</string>
+    <string name="txtDresserDesc">1 Phillips Head Screwdriver \n Allen Wrench kit \n Flathead Screw Driver \n 1/2" Wrench </string>
+    <string name="txtPatioDesc">Tape Measure\n Level \n Hammer \n Square \n Drill with bits \n Screws \n Patience.</string>
+    <string name="txtBicycleDesc">Box cutter or scissors  \n
+Hex wrench set (typically 6mm, 5mm and 4mm wrenches are required) \n
+Pedal wrench \n
+Cable cutters \n
+Bike grease \n
+Bike stand (preferred) \n
+Bike pump \n
+Philips Head screw driver</string>
+</resources>
+
